@@ -1,5 +1,15 @@
 p.poem {
-  width: 25%;
+  width: 35%;
   font-style: italic;
-  color: crimson;
+  font-size: 125%;
+  color: Maroon;
+}
+
+body {
+  background-color: grey;
+}
+
+h1 {
+  background-color: white;
+
 }
